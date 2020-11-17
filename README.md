@@ -5,7 +5,7 @@
  <br><br>
  For Widder's EE 2920 class. Contains modified code by MSOE Professors Dr. Widder, Dr. Ross, Dr. Johnson, and Wei Zhao at Texas Instruments Inc
  <br><br>
- The Bilkey Electric WS-1 is a highly portable and energy efficient oscilloscope, perfect for measuring DC waveforms and AC waveforms with DC offsets. Additional rectification can be used to view pure AC waveforms.
+ The Bilkey Electric WS-1 (Widder Scope 1) is a highly portable and energy efficient oscilloscope, perfect for measuring DC waveforms and AC waveforms with DC offsets. Additional rectification can be used to view pure AC waveforms.
  <br><br>
 https://www.youtube.com/watch?v=parsMinTYEE<br>
 Demonstration Video
