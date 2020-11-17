@@ -13,6 +13,8 @@ Demonstration Video
 ![](BITMAPS/scope%20caps.png?raw=true)<br>
 Oscilloscope Captures
 <br><br>
+![](BITMAPS/scope%20interface%20-%20dev.png?raw=true)<br>
+Display Scale and Helpful Development Information<br><br>
 ![](BITMAPS/schematic.png?raw=true)<br>
 Circuit Schematic Diagram
 <br><br>
