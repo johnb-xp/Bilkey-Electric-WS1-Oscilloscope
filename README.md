@@ -1,4 +1,4 @@
-https://github.com/johnb-xp/Bilkey-Electric-WS1-Oscilloscope/blob/main/BITMAPS/Tech%20Ref%20Title.png
+![](BITMAPS/Tech%20Ref%20Title.png?raw=true)
 <br><br>
 # MSP 432 Oscilloscope
  Created with Code Composer Studio - Designed for the MSP 432P401R Launchpad Development Board and Nokia 5110 Display
@@ -10,9 +10,13 @@ https://github.com/johnb-xp/Bilkey-Electric-WS1-Oscilloscope/blob/main/BITMAPS/T
 https://www.youtube.com/watch?v=parsMinTYEE
 Demonstration Video
  <br><br>
-https://github.com/johnb-xp/Bilkey-Electric-WS1-Oscilloscope/blob/main/BITMAPS/scope%20caps.png
+![](BITMAPS/scope%20caps.png?raw=true)
 Oscilloscope Captures
 <br><br>
-https://github.com/johnb-xp/Bilkey-Electric-WS1-Oscilloscope/blob/main/BITMAPS/schematic.png
+![](BITMAPS/schematic.png?raw=true)
 Circuit Schematic Diagram
-
+<br><br>
+Images individually are available under a Creative Commons CC by SA 2.0 license.
+<br><br>
+Dr. Johnson's libraries are available here, they are not included as open-source code from this project.
+https://faculty-web.msoe.edu/johnsontimoj/EE2920/index-ee2920.html
