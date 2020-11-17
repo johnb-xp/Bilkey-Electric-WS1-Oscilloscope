@@ -7,16 +7,16 @@
  <br><br>
  The Bilkey Electric WS-1 is a highly portable and energy efficient oscilloscope, perfect for measuring DC waveforms and AC waveforms with DC offsets. Additional rectification can be used to view pure AC waveforms.
  <br><br>
-https://www.youtube.com/watch?v=parsMinTYEE
+https://www.youtube.com/watch?v=parsMinTYEE<br>
 Demonstration Video
  <br><br>
-![](BITMAPS/scope%20caps.png?raw=true)
+![](BITMAPS/scope%20caps.png?raw=true)<br>
 Oscilloscope Captures
 <br><br>
-![](BITMAPS/schematic.png?raw=true)
+![](BITMAPS/schematic.png?raw=true)<br>
 Circuit Schematic Diagram
 <br><br>
 Images individually are available under a Creative Commons CC by SA 2.0 license.
 <br><br>
-Dr. Johnson's libraries are available here, they are not included as open-source code from this project.
+Dr. Johnson's libraries are available here, they are not included in the open source license of this project.
 https://faculty-web.msoe.edu/johnsontimoj/EE2920/index-ee2920.html
